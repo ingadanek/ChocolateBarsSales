@@ -21,11 +21,11 @@ I created a pieplot to realize that the majority of chocolate bars' customers in
 Before using Multiple Linear Regression we need to relax the OLS assumptions.
 
 These include:
-*No multicollinearity,
-*Linearity,
-*Normality of Residual,
-*Homoscedasticity,
-*No autocorrelation
+* No multicollinearity,
+* Linearity,
+* Normality of Residual,
+* Homoscedasticity,
+* No autocorrelation
 
 ## Statistically significant variables
 In order to find out which variables contribute to Sales we need to have a closer look at the p-value. There is a hypothesis involved here. The values statistically significant are those with p-value less that 5% (0.05). 
